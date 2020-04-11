@@ -2,7 +2,7 @@
 
 *Java/[Processing](https://processing.org/) library for finding contours in binary images, made at [The Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/) at CMU.*
 
-### [Documentation]() | [Website]()
+### [Documentation](https://pcontour.netlify.com/reference/pcontour/pcontour) | [Website](https://pcontour.netlify.com/)
 
 ![](web/gif.gif)
 
@@ -24,11 +24,11 @@ I've commented every block of code with excerpts from the paper, explaining exac
 
 ### For Processing
 
-Download the [zip](), unzip and put into the libraries folder of your Processing sketches. Reference and examples are included in the PContour folder.
+Download the [zip](https://pcontour.netlify.com/download/PContour-1.zip), unzip and put into the libraries folder of your Processing sketches. Reference and examples are included in the PContour folder.
 
 ### For Java
 
-Download the [zip](), unzip, and grab `PContour.jar`. Or, find all source code in `src/pcontour/PContour.java` and compile it the way you want.
+Download the [zip](https://pcontour.netlify.com/download/PContour-1.zip), unzip, and grab `PContour.jar`. Or, find all source code in `src/pcontour/PContour.java` and compile it the way you want.
 
 ### Building from source
 
@@ -63,7 +63,7 @@ for (int i = 0; i < contours.size(); i++){
 
 ```
 
-Check out the Processing demos in `examples/` folder, as well as see the [javadoc documentation]() for more details.
+Check out the Processing demos in `examples/` folder, as well as see the [javadoc documentation](https://pcontour.netlify.com/reference/pcontour/pcontour) for more details.
 
 
 <small>This library is made possible with support from The Frank-Ratchye STUDIO for Creative Inquiry.</small>
