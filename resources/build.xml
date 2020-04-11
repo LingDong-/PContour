@@ -315,8 +315,8 @@ ${line}
 		
         <move file="${project.dist.version}/${project.name}.zip" todir="${project.dist.version}/web/download" />
 		
-		<copy file="${project.dist.version}/web/download/${project.name}.zip" tofile="${project.dist.version}/web/download/${project.name}-${library.version}.zip" />
-		<copy file="${project.dist.version}/web/download/${project.name}.txt" tofile="${project.dist.version}/web/download/${project.name}-${library.version}.txt" />
+		<!--copy file="${project.dist.version}/web/download/${project.name}.zip" tofile="${project.dist.version}/web/download/${project.name}-${library.version}.zip" /-->
+		<!--copy file="${project.dist.version}/web/download/${project.name}.txt" tofile="${project.dist.version}/web/download/${project.name}-${library.version}.txt" /-->
 		
 		<move todir="${project.dist.version}">
 			<fileset dir="${project.dist.version}/web" />
