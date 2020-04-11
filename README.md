@@ -37,7 +37,7 @@ Clone this repo, and follow the steps from [processing/processing-library-templa
 ## Usage
 
 ```java
-import PContour.*;
+import pcontour.*;
 
 int[] bitmap = new int[]{
 	0,0,0,0,0,0,0,0,

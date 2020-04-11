@@ -5,7 +5,7 @@
 // It implements the same algorithms as OpenCV's findContours and approxPolyDP.
 
 
-import PContour.*;
+import pcontour.*;
 
 
 int[] im;           // the image stored as bitmap

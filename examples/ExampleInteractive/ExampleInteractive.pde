@@ -7,7 +7,7 @@
 // Drag mouse to paint bitmap, Right click to erase.
 // Contours and other semantic info will be displayed.
 
-import PContour.*;
+import pcontour.*;
 
 int W_GRID;         // width of each cell
 int N_GRID = 30;    // number of cells in each dimension

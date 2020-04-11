@@ -14,7 +14,7 @@ By default the following locations are used for your sketchbook folder:
   * For Mac users, the sketchbook folder is located inside `~/Documents/Processing` 
   * For Windows users, the sketchbook folder is located inside `My Documents/Processing`
 
-Download PContour from http://yourlibraryname.com
+Download PContour from http://pcontour.netlify.com/
 
 Unzip and copy the contributed Library's folder into the `libraries` folder in the Processing sketchbook. You will need to create this `libraries` folder if it does not exist.
 
