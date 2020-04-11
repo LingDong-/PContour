@@ -2,7 +2,7 @@
 
 *Java/[Processing](https://processing.org/) library for finding contours in binary images, made at [The Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/) at CMU.*
 
-### [Documentation](https://pcontour.netlify.com/reference/pcontour/pcontour) | [Website](https://pcontour.netlify.com/)
+### [Documentation](https://pcontour.netlify.com/reference/pcontour/pcontour) | [Website](https://pcontour.netlify.com/) | [Download](https://pcontour.netlify.com/download/PContour-1.zip)
 
 ![](web/gif.gif)
 
