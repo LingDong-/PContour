@@ -2,7 +2,7 @@
 
 *Java/[Processing](https://processing.org/) library for finding contours in binary images, made at [The Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/) at CMU.*
 
-[Documentation]() | [Website]()
+### [Documentation]() | [Website]()
 
 ![](web/gif.gif)
 
