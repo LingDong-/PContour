@@ -66,4 +66,4 @@ for (int i = 0; i < contours.size(); i++){
 Check out the Processing demos in `examples/` folder, as well as see the [javadoc documentation](https://pcontour.netlify.com/reference/pcontour/pcontour) for more details.
 
 
-<small>This library is made possible with support from The Frank-Ratchye STUDIO for Creative Inquiry.</small>
+<sub>This library is made possible with support from The Frank-Ratchye STUDIO for Creative Inquiry.</sub>
